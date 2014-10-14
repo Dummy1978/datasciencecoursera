@@ -1,4 +1,4 @@
 datasciencecoursera
 ===================
 
-This is a profile created for datascience course
+This is a profile created for datascience course 1
